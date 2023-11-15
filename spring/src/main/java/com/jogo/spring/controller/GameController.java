@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @CrossOrigin("*")                        
 public class GameController {
 
-    @GetMapping              
+    @GetMapping                     // Mapeia solicitações HTTP GET para o método home()
     public String home() {
         return null;
     }
