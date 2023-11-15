@@ -1,7 +1,7 @@
 # Jogo-Da-Velha
 
 DESCRIÇÃO:
-Este é um simples jogo da velha implementado em Java com Spring Boot no backend e HTML/CSS/JavaScript no frontend. O jogo permite que dois jogadores se alternem para fazer suas jogadas em um tabuleiro 3x3. O vencedor é o primeiro jogador a completar uma linha, coluna ou diagonal com seus símbolos.
+Este é um simples jogo da velha implementado em Java com Spring Boot no backend e HTML/CSS/JavaScript no frontend. O jogo permite que dois jogadores se alternem para fazer suas jogadas em um tabuleiro. O vencedor é o primeiro jogador a completar uma linha, coluna ou diagonal com seus símbolos.
 
 ESTRUTURA DO PROJETO:
 
